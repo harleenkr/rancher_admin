@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/harleenkr/rancher_admin#readme",
   "dependencies": {
+    "express": "^4.15.4",
     "moment": "^2.18.1",
     "rethink-plus": "^0.4.0",
     "superagent": "^3.6.0"
