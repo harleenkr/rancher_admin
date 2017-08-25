@@ -9,6 +9,10 @@
 
 index.js
 
+saveDataInRedis.js
+
+dataDetails.js
+
 package.json
 
 README.MD
