@@ -19,6 +19,7 @@
   "dependencies": {
     "express": "^4.15.4",
     "moment": "^2.18.1",
+    "redis": "^2.8.0",
     "rethink-plus": "^0.4.0",
     "superagent": "^3.6.0"
   }
