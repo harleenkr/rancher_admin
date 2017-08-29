@@ -21,6 +21,7 @@
     "moment": "^2.18.1",
     "redis": "^2.8.0",
     "rethink-plus": "^0.4.0",
+    "sparkpost": "^2.1.2",
     "superagent": "^3.6.0"
   }
 }
